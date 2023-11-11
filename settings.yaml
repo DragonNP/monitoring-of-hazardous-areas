@@ -1,0 +1,5 @@
+path: ../sorted_train_dataset/
+train: ./images/train
+val: ./images/val
+nc: 1
+names: ['person']
